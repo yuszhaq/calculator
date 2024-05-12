@@ -9,5 +9,4 @@ function displayOutput() {
 function updateCalculation(number) {
 	calculation += number;
 	displayOutput();
-	console.log(calculation);
 }
